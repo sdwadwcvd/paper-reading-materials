@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文解读材料"
+  short_description: "参照样例制作文献解读、论文信息图、完整插图和公众号思维导图"
+  default_prompt: "请用 $paper-reading-materials 参照样例整理这篇论文，先分析框架，再生成信息图、思维导图、裁剪插图和文献解读 Word。"
